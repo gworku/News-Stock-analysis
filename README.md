@@ -1,4 +1,4 @@
-📊 Financial Data Analysis Suite
+📊 # 1. Financial Analysis Data 
 This project combines descriptive and statistical analysis of financial datasets — including financial news headlines and historical stock prices — to uncover insights using Python. The notebook performs data loading, cleaning, exploratory data analysis (EDA), sentiment analysis, technical indicators, and rich visualizations.
 
 📁 Overview
