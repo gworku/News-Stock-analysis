@@ -1,21 +1,21 @@
-📊 Financial Analysis Data Suite
+# 📊 Financial Analysis Data Suite
 A comprehensive Python-based data analysis project that combines descriptive and statistical analysis of financial datasets — including news headlines and historical stock prices — to uncover valuable insights using Jupyter Notebooks.
 
-📁 Overview
+# 📁 Overview
 This project focuses on two major areas of financial data analysis:
 
-📰 Financial News Analysis
+# 📰 Financial News Analysis
 Analyze financial news headlines (raw_analyst_ratings.csv)
 
 Explore publishing trends and perform sentiment classification
 
-📈 Stock Market Statistical Analysis
+# 📈 Stock Market Statistical Analysis
 Perform descriptive statistics and technical analysis
 
 Use data from major tech companies: AAPL, GOOG, AMZN, META, MSFT, NVDA, and TSLA
 
-✨ Features
-🗞️ Financial News Analysis
+# ✨ Features
+# 🗞️ Financial News Analysis
 Load and preview financial news headlines
 
 Compute headline length stats (mean, median, min, max)
@@ -32,7 +32,7 @@ Article frequency by time
 
 Headline length histograms
 
-📊 Stock Market Analysis
+# 📊 Stock Market Analysis
 Load historical stock price data using yfinance
 
 Preprocess and clean missing values
@@ -47,7 +47,7 @@ RSI, MACD, Bollinger Bands, etc.
 
 Integrate sentiment scores for enriched insights
 
-🧰 Dependencies
+# 🧰 Dependencies
 Install the required packages:
 
 bash
